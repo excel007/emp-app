@@ -1,0 +1,1 @@
+ALTER TABLE "employee" ADD COLUMN "nickname" varchar(50) NOT NULL;
